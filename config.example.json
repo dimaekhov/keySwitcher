@@ -1,0 +1,22 @@
+{
+  "auto_correct": true,
+  "dry_run": false,
+  "min_word_chars": 3,
+  "score_margin": 2.8,
+  "strong_score_margin": 5.5,
+  "min_alternate_score": 5.0,
+  "context_weight": 1.1,
+  "tray_icon": true,
+  "switch_hint": true,
+  "hint_duration_ms": 950,
+  "hint_opacity": 218,
+  "fix_capitalized_common_words": true,
+  "delete_switch_enabled": true,
+  "learning_enabled": true,
+  "learning_path": "learning.local.json",
+  "typo_exceptions_path": "exceptions.local.json",
+  "fix_layout_punctuation": true,
+  "fix_transposed_letters": true,
+  "fix_repeated_consonants": true,
+  "log_level": "INFO"
+}

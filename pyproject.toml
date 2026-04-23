@@ -1,0 +1,9 @@
+[project]
+name = "keyswitcher"
+version = "0.1.0"
+description = "Context-aware Russian/English keyboard layout auto switcher for Windows."
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.keyswitcher]
+python = "3.11"
